@@ -25,9 +25,9 @@ Outputs:
 - West Traffic Light (Red, Yellow, Green)
 
 🖥️ Tools & Technologies
-PLC Programming (Ladder Diagram)
-Omron CX Programmer V9.7 / CX Designer
-Timer-Based Control Logic
+- PLC Programming (Ladder Diagram)
+- Omron CX Programmer V9.7 / CX Designer
+- Timer-Based Control Logic
 
 
 
